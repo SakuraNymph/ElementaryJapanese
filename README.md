@@ -2,21 +2,21 @@
 
 ## 第一课
 
-### &#x27A4;名1$\color{yellow}{「は」}$($\color{yellow}{提示助词}$)名2$\color{yellow}{「です」}$($\color{yellow}{判断助词‘是’}$) 译为 ‘……是……’
+### &#x27A4;名1$\color{yellow}{「は」}$($\color{yellow}{提示助词}$)名2$\color{yellow}{「です」}$($\color{yellow}{判断助词‘是’}$)	译为 ‘……是……’
 
 例子：私は学生です
 
-### &#x27A4;名1$\color{yellow}{「は」}$名2$\color{yellow}{(では/じゃ)ありません}$ 译为 ’……不是……‘
+### &#x27A4;名1$\color{yellow}{「は」}$名2$\color{yellow}{(では/じゃ)ありません}$	译为 ’……不是……‘
 
 例子：李さんは日本人ではありません
 
-### &#x27A4;名1$\color{yellow}{「は」}$名2$\color{yellow}{です「か」}$($\color{yellow}{疑问终助词}$) 译为 ‘……是……吗’
+### &#x27A4;名1$\color{yellow}{「は」}$名2$\color{yellow}{です「か」}$($\color{yellow}{疑问终助词}$)	译为 ‘……是……吗’
 
 例子：李さんは日本人ですか
 肯定回答：はい、$\color{lime}{そう}$です
 否定回答：いいえ、$\color{lime}{ちがいます}$
 
-### &#x27A4;～$\color{yellow}{の}$～	「の」->($\color{yellow}{格助词}$)表示从属的机构、国家、属性、所属、内容 译为 ‘的’
+### &#x27A4;～$\color{yellow}{の}$～	「の」->($\color{yellow}{格助词}$)表示从属的机构、国家、属性、所属、内容	译为 ‘的’
 
 ## 第二课
 
@@ -88,7 +88,7 @@
 
 例子：銀行はどこですか
 
-### &#x27A4;名1$\color{yellow}{「も」}$($\color{yellow}{提示助词、译为'也是'}$)名2です 译为 ‘……也是……’
+### &#x27A4;名1$\color{yellow}{「も」}$($\color{yellow}{提示助词、译为'也是'}$)名2です	译为 ‘……也是……’
 
 ### &#x27A4;名1は名2$\color{yellow}{「ですか」}$名3$\color{yellow}{「ですか」}$ 选择疑问句
 
@@ -137,13 +137,105 @@
 | 助词不同(主语) |           が            |           は            |
 |    焦点不同    |        强调主语         |        强调场所         |
 
-### &#x27A4;名1「$\color{yellow}{と}$」($\color{yellow}{并列助词、两个或多个'同类'名词并列}$)名2 译为 ’和‘
+### &#x27A4;名1「$\color{yellow}{と}$」($\color{yellow}{并列助词、两个或多个'同类'名词并列}$)名2	译为 ’和‘
 
 ### &#x27A4;疑问词 + $\color{yellow}{「も」}$ + 否定 (全面否定句)
 例子：箱の中に何がありますか
 	……何もありません
 
 ## 第五课
+
+### &#x27A4;动词	分类/变形/时态
+
+动词的分类
+	$\color{lime}{动词基本型}$词尾以<b>$\color{yellow}{ウ段}$</b>假名结尾、又称原型、字典形
+		$\color{lime}{一类}$动词（动1）（$\color{lime}{五段}$动词）
+		$\color{lime}{二类}$动词（动2）（$\color{lime}{一段}$动词）
+		$\color{lime}{三类}$动词（动3）（$\color{lime}{サ}$变动词/$\color{lime}{カ}$变动词）
+
+三类动词
+	==カ变动词==	来る（くる）
+	==サ变动词==	する/～する
+二类动词　
+	==一段动词==	以$\color{lime}{る}$结尾，$\color{lime}{る}$前的假名在$\color{lime}{イ段}$或$\color{lime}{エ段}$上
+一类动词
+	==五段动词==	以$\color{lime}{ウ段}$假名结尾	（$\color{lime}{う　く　ぐ　す　つ　ぬ　ぶ　む　る}$）
+		特列：やる	切る	入る	いる	知る	滑る	帰る（以上七个均为一类动词）
+
+总结：区别一段动词和五段动词的方法
+	1.当$\color{lime}{词尾不为「る」时}$，一定是$\color{lime}{五段}$动词
+	2.当$\color{lime}{词尾为「る」时}$（除三类动词外），看$\color{lime}{「る」前面的假名}$在哪段上
+		①「る」前的假名$\color{lime}{不在イ/エ段上}$时，为$\color{lime}{五段}$动词
+		②「る」前的假名$\color{lime}{在イ/エ段上}$时，$\color{lime}{大部分}$为$\color{lime}{一段}$动词。20个左右的特列为五段动词
+
+动词的变形
+
+==动词基本型== => ==动词ます形==
+	三类动词	来る => $\color{lime}{来}$ます
+			　　する => $\color{lime}{し}$ます
+	二类动词	去掉$\color{lime}{「る」}$ + $\color{lime}{ます}$	动词的==ます==形去掉==ます==就是动词的==连用形==
+	一类动词	词尾$\color{lime}{ウ段}$假名变成同行中$\color{lime}{イ段}$假名 + ます
+
+<table>
+    <tr>
+		<td style="color: yellow;">う</td>
+		<td style="color: yellow;">く</td>
+        <td style="color: yellow;">ぐ</td>
+		<td style="color: yellow;">す</td>
+        <td style="color: yellow;">つ</td>
+		<td style="color: yellow;">ぬ</td>
+        <td style="color: yellow;">ぶ</td>
+		<td style="color: yellow;">む</td>
+        <td style="color: yellow;">る</td>
+	</tr>
+	<tr>
+		<td style="color: lime;">い</td>
+		<td style="color: lime;">き</td>
+        <td style="color: lime;">ぎ</td>
+		<td style="color: lime;">し</td>
+        <td style="color: lime;">ち</td>
+		<td style="color: lime;">に</td>
+        <td style="color: lime;">び</td>
+		<td style="color: lime;">み</td>
+        <td style="color: lime;">り</td>
+	</tr>
+</table>
+
+​	五个特例（敬语）
+
+<table>
+    <tr>
+		<td style="color: yellow;">いらっじゃる</td>
+		<td style="color: lime;">いらっじゃいます</td>
+	</tr>
+	<tr>
+		<td style="color: yellow;">おっじゃる</td>
+		<td style="color: lime;">おっじゃいます</td>
+	</tr>
+    <tr>
+		<td style="color: yellow;">なさる</td>
+		<td style="color: lime;">なさいます</td>
+	</tr>
+    <tr>
+		<td style="color: yellow;">くださる</td>
+		<td style="color: lime;">くださいます</td>
+	</tr>
+    <tr>
+		<td style="color: yellow;">ござる</td>
+		<td style="color: lime;">ございます</td>
+	</tr>
+</table>	
+
+动词ます形的作用
+	「ます」是表示尊敬的助动词
+	与「です」同构成句子的礼貌体（敬体）
+	在句中做谓语，并只能用于结局
+
+动词的时态
+	非过去时肯定	=>	动词==ます形==
+	非过去时否定	=>	动词连用形 + ==ません==
+	过去时肯定	    =>	动词连用形 + ==でした==
+	过去时否定	    =>	动词连用形 + ==ませんでした==
 
 ### &#x27A4;时间「$\color{yellow}{に}$」($\color{yellow}{具体的时间点}$)动词
 
@@ -178,7 +270,7 @@
 
 ## 第六课
 
-### &#x27A4;名词(场所)$\color{yellow}{「へ」}$($\color{yellow}{格助词，读作「え」表示移动的方向，后接移动动词}$)动词(表移动) 译为 ‘去……’ ‘来……’ ‘回……’
+### &#x27A4;名词(场所)$\color{yellow}{「へ」}$($\color{yellow}{格助词，读作「え」表示移动的方向，后接移动动词}$)动词(表移动)	译为 ‘去……’ ‘来……’ ‘回……’
 
 例子：小野さんは来月韓国$\color{lime}{へ}$行きます	（小野下个月$\color{lime}{去}$日本）
 	私は先月日本$\color{lime}{へ}$来ました			（我上个月$\color{lime}{来}$的日本）
@@ -233,7 +325,7 @@ $\color{lime}{「に」}$和$\color{lime}{「で」}$的区别
 	李さんは教室$\color{lime}{に}$(存在的场所)います
 	李さんは教室$\color{lime}{で}$($\color{lime}{发生动作的场所}$)日本語を勉強します
 
-### &#x27A4;名1$\color{yellow}{「か」}$($\color{yellow}{并列助词，二选一}$)名2 译为 ‘或者’
+### &#x27A4;名1$\color{yellow}{「か」}$($\color{yellow}{并列助词，二选一}$)名2	译为 ‘或者’
 
 例子：私は毎朝パン$\color{lime}{と}$ケーキを食べます（我每天早上吃面包$\color{lime}{和}$蛋糕）
 	私は毎朝パン$\color{lime}{か}$ケーキを食べます（我每天早上吃面包$\color{lime}{或}$蛋糕）
@@ -318,10 +410,11 @@ $\color{lime}{⑤特例}$
 	</tr>
     <tr>
 		<td>否定</td>
-		<td style="color: yellow;">よくないです/よくあいりません</td>
+		<td style="color: yellow;">よくないです/よくありません</td>
 		<td style="color: yellow;">よくなかったです/よくありませんでした</td>
 	</tr>
 </table>
+
 
 ### &#x27A4;表示程度的副词
 
@@ -393,4 +486,232 @@ $\color{lime}{④过去时否定形式 => 二类形容词「\bcancel{だ}\\」 +
 		<td>きれいではありませんでした/きれいじゃありませんでした</td>
 	</tr>
 </table>
+### &#x27A4;$\color{yellow}{「そして」}$($\color{yellow}{表示并列关系的接续词}$)	译为 ‘并且、而且’
+
+例子：富士山はきれいです。$\color{lime}{そして}$、とても有名です
+
+### &#x27A4;$\color{yellow}{「でも」}$($\color{yellow}{表示转折关系的接续词}$)	译为 ‘但是、不过’
+
+例子：この服は安いです。$\color{lime}{でも}$、とてもきれいです
+
+### &#x27A4;名词作谓语 $\color{yellow}{名词作谓语时的时态变形方式和二类形容词一样}$
+
+### &#x27A4;$\color{yellow}{「どんな」}$($\color{yellow}{表示疑问的连体词}$) + 名词	译为 ‘怎样的、什么样的’
+
+例子：森さんは$\color{lime}{どうですか}$
+	おもしろいです
+	森さんは$\color{lime}{どんな人ですか}$
+	おもしろい人です
+
+## 第十一课
+
+### &#x27A4;名1$\color{yellow}{「は」}$名2$\color{yellow}{「が」}$($\color{yellow}{格助词、表示情感、能力、欲求、所有的对象}$)～
+
+例子：【情感】私は車$\color{red}{が}$$\color{lime}{好きです}$
+	   【能力】私は料理$\color{red}{が}$$\color{lime}{できます}$
+	   【欲求】私は新しい靴$\color{red}{が}$$\color{lime}{欲しいです}$
+	   【所有】私は車$\color{red}{が}$$\color{lime}{あります}$
+
+「を」-> 【宾格助词】$\color{lime}{(动作涉及的对象)}$	例子：音楽$\color{lime}{を}$聞きます
+「と」-> 【格助词】$\color{lime}{(共同动作的对象)}$	例子：友達$\color{lime}{と}$日本へ行きます
+「に」-> 【格助词】$\color{lime}{(动作的对象)}$	例子：友達$\color{lime}{に}$花をあげます
+「が」-> 【】对谓语部分词语有限制
+	①表示$\color{lime}{情感、感情}$的词语
+	例子：好き	嫌い	怖い
+	②表示$\color{lime}{能力、水平}$的词语
+	例子：上手	下手	苦手	分かります	できます
+
+### &#x27A4;$\color{yellow}{「～から」}$($\color{yellow}{【接续助词】放在前半句句末}$)
+
+例子：森さんはお酒が好きです$\color{lime}{から}$、毎日飲みます
+
+### &#x27A4;$\color{yellow}{「でから」}$($\color{yellow}{【接续词】放在两个小句之间「ですから」是更礼貌的形式}$)
+
+例子：森さんはお酒が好きです。$\color{lime}{だから}$、毎日飲みます
+
+### &#x27A4;$\color{yellow}{「どうして」}$ 译为 ‘为什么’
+
+「どうして」-> 口语书面语都行
+「なんで」-> 口语
+「なぜ」-> 书面语
+
+## 第十二课
+
+### &#x27A4;名1は　名2「$\color{yellow}{より}$」($\color{yellow}{【格助词】表示比较的基准}$) 形1/形2です	译为 ‘名1 比 名2（更）’
+
+例子：10月は9月$\color{lime}{より}$涼しいです
+
+补充说明
+「ずっと」-> 【副词】表示$\color{lime}{两者相差悬殊}$	译为 ‘……得多’
+	例子：中国は日本より$\color{lime}{ずっと}$広いです
+
+### &#x27A4;名2$\color{yellow}{「より」}$名1$\color{yellow}{の「ほうが」}$($\color{yellow}{【主格助词】强调主语}$) 形1/形2です	译为 ‘比起……（来说）……要（更）……些’
+
+例子：9月$\color{lime}{より}$10月$\color{lime}{のほうが}$涼しいです
+
+### &#x27A4;名2は 名1$\color{yellow}{「ほど」}$($\color{yellow}{【副助词】表示程度}$) 形1/形2$\color{yellow}{否定形}$	译为 ‘……不如……’ ‘没（那么）……’
+
+例子：9月は10月$\color{lime}{ほど}$涼しくないです
+
+### &#x27A4;名1$\color{yellow}{と}$名2$\color{yellow}{と}$　$\color{yellow}{「どちら」が}$($\color{yellow}{两者间比较的疑问句使用该疑问词}$)形1/形2ですか	(口语形式「どっち」)译为 ‘……和……，哪个更……？’
+
+どちら + も + 肯定 【全面肯定句】
+
+### &#x27A4;名1($\color{yellow}{の中}$)$\color{yellow}{で}$ 名2$\color{yellow}{がいちばん}$形1/形2	译为 ‘在……之中，……最……’
+
+回顾「$\color{red}{で}$」的用法
+①交通工具				飛行機$\color{lime}{で}$日本へいきます
+②表示动作发生的场所		図書館$\color{lime}{で}$勉強します
+③表示手段、工具、原材料	ペン$\color{lime}{で}$名前を書きます
+④表示限定范围			日本料理の中$\color{lime}{で}$
+
+(1)非时空的名词 + $\color{lime}{の中で}$
+(2)时间/空间的名词 + $\color{lime}{で}$
+
+补充说明
+$\color{yellow}{～（の中）でいちばん形1/形2名1は名2です}$	译为 ‘在……之中，最……的（人/物）是……’
+
+### &#x27A4;～（の中）で$\color{yellow}{疑问词}$がいちばん形1/形2ですか	译为 ‘在……之中，……是最……的呢？’
+
+## 第十三课
+
+回顾$\color{lime}{「に」}$
+①存在的场所	机の上$\color{lime}{に}$本があります
+②具体时间点	七時$\color{lime}{に}$おきます
+③动作的对象	李さん$\color{lime}{に}$会います
+
+### &#x27A4;$\color{yellow}{「に」}$（$\color{yellow}{频率}$）时间段$\color{yellow}{に}$次数 + 动词
+
+补充
+1週間に -> 週に	１日に -> 日に	１か月に -> 月に	１年に -> 年に
+
+### &#x27A4;$\color{yellow}{「に」}$($\color{yellow}{移动行为的目的}$) 
+
+### ==动词~~ます~~形 + に + 移动动词移 -> 动行为的目的==
+
+例子：公園へ写真を撮りに行きます
+### ==サ变动词~~します~~ + に + 移动动词 -> 移动行为的目的==
+
+例子：図書館へ勉強に行きます
+
+## 第十四课
+
+### &#x27A4;动词$\color{yellow}{て形}$	$\color{yellow}{て形}$ -> 以「て」或「で」终止的动词活用形$\color{yellow}{表示中顿、接续}$
+
+(1)三类动词（サ变动词/カ变动词）
+<table>
+    <tr>
+		<td style="color: yellow;">する/～する</td>
+		<td style="color: yellow;">来る（くる）</td>
+	</tr>
+	<tr>
+		<td style="color: lime;">して/～して</td>
+		<td style="color: lime;">来て（きて）</td>
+	</tr>
+</table>
+
+(2)二类动词	<b style="color: yellow;">~~ます~~形 + て</b>
+<table>
+    <tr>
+		<td style="color: yellow;">起きる</td>
+		<td style="color: yellow;">見る</td>
+        <td style="color: yellow;">見せる</td>
+		<td style="color: yellow;">食べる</td>
+	</tr>
+	<tr>
+		<td style="color: lime;">起きて</td>
+		<td style="color: lime;">見て</td>
+        <td style="color: lime;">見せて</td>
+		<td style="color: lime;">食べて</td>
+	</tr>
+</table>
+(3)一类动词
+
+<table>
+    <tr>
+        <td style="color: yellow;">う</td>
+        <td style="color: yellow;">つ</td>
+        <td style="color: yellow;">る</td>
+        <td style="color: yellow;" rowspan="4"></td>
+        <td style="color: yellow;">く</td>
+        <td style="color: yellow;">ぐ</td>
+	</tr>
+    <tr>
+        <td>会う</td>
+        <td>立つ</td>
+        <td>取る</td>
+        <td>書く</td>
+        <td>泳ぐ</td>
+	</tr>
+    <tr>
+        <td style="color: lime;">会って</td>
+        <td style="color: lime;">立って</td>
+        <td style="color: lime;">取って</td>
+        <td style="color: lime;">書いて</td>
+        <td style="color: lime;">泳いで</td>
+	</tr>
+    <tr>
+        <td style="color: yellow;" colspan="3">促音变 => 词尾「う/つ/る」=> って</td>
+        <td style="color: yellow;" colspan="2">イ音变 => 词尾「く」=> いて	/	词尾「ぐ」=> いで	/	特例：行く => 行って</td>
+	</tr>
+</table>
+
+<table>
+    <tr>
+        <td style="color: yellow;">う</td>
+        <td style="color: yellow;">つ</td>
+        <td style="color: yellow;">る</td>
+        <td style="color: yellow;" rowspan="4"></td>
+        <td style="color: yellow;">く</td>
+	</tr>
+    <tr>
+        <td>死ぬ</td>
+        <td>呼ぶ</td>
+        <td>休む</td>
+        <td>話す</td>
+	</tr>
+    <tr>
+        <td style="color: lime;">死んで</td>
+        <td style="color: lime;">呼んで</td>
+        <td style="color: lime;">休んで</td>
+        <td style="color: lime;">はなして</td>
+	</tr>
+    <tr>
+        <td style="color: yellow;" colspan="3">拨音变 => 词尾「ぬ/ぶ/む」=> んで</td>
+        <td style="color: yellow;">其他音变 => 词尾「す」=> して</td>
+	</tr>
+</table>
+
+### &#x27A4;动词$\color{yellow}{て形}$ <kbd>$\color{yellow}{ください}$</kbd> => 委托/指示/劝诱（$\color{yellow}{不能对上级使用}$）译为	‘请……’
+
+例子：
+	【委托】この荷物を航空便で$\color{lime}{送ってください}$
+	【指示】ここでちょっと$\color{lime}{待ってください}$
+	【劝诱】うちへ遊びに$\color{lime}{来てください}$
+
+补充1
+	更为礼貌的形式：==～てくださいませんか==
+补充2
+	在口语中，省去「ください」使语气更加柔和委婉
+
+### &#x27A4;动词$\color{yellow}{形}$ 动词（两个以上的动作$\color{yellow}{依照时间顺序先后发生}$句子的时态体现在最后一个动词上）译为	‘先……再……’
+
+例子：今朝7時に$\color{lime}{起きて}$、朝ご飯を作りました
+
+补充
+	明日図書館へ$\color{lime}{行って本を借りて}$、家へ帰ります <===> 明日図書館へ$\color{lime}{本を帰りに行って}$、家へ帰ります
+
+### &#x27A4;动词$\color{yellow}{てから}$ 动词（表示前一个动作结束后，接着进行后项动作。句子时态体现在后项动词上。「てから」只能在句子中$\color{yellow}{使用一次}$）译为 ‘……之后……’
+
+例子：電話を$\color{lime}{かけてから}$、友達のうちへ行きます
+
+补充说明
+	==て==　       两个动作前后$\color{lime}{衔接紧密}$（$\color{yellow}{几乎同时发生}$），$\color{lime}{关联性很强}$时使用。可$\color{lime}{多次}$使用
+	==てから==　两个动词具有$\color{lime}{明显的先后性}$时使用。只能使用$\color{lime}{一次}$　
+
+### &#x27A4;
+
+### &#x27A4;
+
+
 
