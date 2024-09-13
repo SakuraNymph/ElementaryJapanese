@@ -143,6 +143,15 @@
 例子：箱の中に何がありますか
 	……何もありません
 
+$\color{lime}{格助词为「が」「を」时、「が」「を」省略}$
+	例子：教室にだれ$\color{lime}{が}$いますか	だれ$\color{lime}{も}$いません
+		何$\color{lime}{を}$飲みたいですか	何$\color{lime}{も}$飲みたくないです
+
+$\color{lime}{格助词为「へ」时、「へ」可省略可保留}$
+	例子：どこ$\color{lime}{へ}$行きたいですか	どこ（$\color{lime}{へ}$）$\color{lime}{も}$行きたくないです
+$\color{lime}{格助词为「で/に/と/から」等时、「も」接在助词后}$
+	例子：だれ$\color{lime}{に}$会いたいですか	だれ$\color{lime}{にも}$会いたくないでです
+
 ## 第五课
 
 ### &#x27A4;动词	分类/变形/时态
@@ -655,14 +664,13 @@ $\color{yellow}{～（の中）でいちばん形1/形2名1は名2です}$	译�
         <td style="color: yellow;" colspan="2">イ音变 => 词尾「く」=> いて	/	词尾「ぐ」=> いで	/	特例：行く => 行って</td>
 	</tr>
 </table>
-
 <table>
     <tr>
-        <td style="color: yellow;">う</td>
-        <td style="color: yellow;">つ</td>
-        <td style="color: yellow;">る</td>
+        <td style="color: yellow;">ぬ</td>
+        <td style="color: yellow;">ぶ</td>
+        <td style="color: yellow;">む</td>
         <td style="color: yellow;" rowspan="4"></td>
-        <td style="color: yellow;">く</td>
+        <td style="color: yellow;">す</td>
 	</tr>
     <tr>
         <td>死ぬ</td>
@@ -681,6 +689,7 @@ $\color{yellow}{～（の中）でいちばん形1/形2名1は名2です}$	译�
         <td style="color: yellow;">其他音变 => 词尾「す」=> して</td>
 	</tr>
 </table>
+
 
 ### &#x27A4;动词$\color{yellow}{て形}$ <kbd>$\color{yellow}{ください}$</kbd> => 委托/指示/劝诱（$\color{yellow}{不能对上级使用}$）译为	‘请……’
 
@@ -759,11 +768,72 @@ $\color{lime}{状态性动词}$==ています => 表示结果状态的存续==
 例子：森さんは車を持っています
 例子：持ちます	結婚します	住みます	知ります
 
+## 第十七课
+
+### &#x27A4;名词「$\color{yellow}{が}$」$\color{yellow}{欲しい}$です	译为 ‘想要……’
+
+注意
+	1.主语一般为第一人称
+	2.主语为第二人称时，一般为疑问句
+	3.不能用于表现第三人称的愿望
+
+### &#x27A4;名词を动词$\color{yellow}{たいです}$	译为 ‘想要’ 或 ‘想要做（某事）……’
+
+==たい== => 意愿的助动词
+==接续：动词~~ます~~形 + たい==
+
+注意
+	1.主语一般为第一人称
+	2.主语为第二人称时，一般为疑问句
+	3.不能用于表现第三人称的愿望
+
+「たい」是$\color{lime}{一类形容词词性}$的愿望助动词。遵循$\color{lime}{一类形容词}$的变形规律
+
+<table>
+    <tr>
+		<td style="color: lime;">非过去肯定</td>
+		<td colspan="2" style="color: yellow;">買いたいです</td>
+	</tr>
+	<tr>
+		<td style="color: lime;">非过去否定</td>
+		<td style="color: yellow;">買いたくないです</td>
+        <td style="color: yellow;">買いたくありません</td>
+	</tr>
+    <tr>
+		<td style="color: lime;">过去肯定</td>
+		<td colspan="2" style="color: yellow;">買いたかったです</td>
+	</tr>
+    <tr>
+		<td style="color: lime;">过去否定</td>
+		<td style="color: yellow;">買いたくなかったです</td>
+        <td style="color: yellow;">買いたくありませんでした</td>
+	</tr>
+</table>
+
+### &#x27A4;动词$\color{yellow}{ませんか}$【建议】表示向对方提出建议	译为 ‘（一起）……怎么样？’
+
+==接续：动词~~ます~~形 + ませんか（上升调）==
+
+例子：仕事が終わってから、飲みに$\color{lime}{行きまぜんか}$
+
+### &#x27A4;动词$\color{yellow}{ましょう}$【提议】表示说话人呼吁或劝诱他人与自己一起做某事	译为 ‘（一起）……吧’
+
+==接续：动词~~ます~~形 + ましょう（下降调）==
+
+注意
+	「ましょう」的礼貌程度没有「ませんか」高
+
+### &#x27A4;
+
 ### &#x27A4;
 
 ### &#x27A4;
 
 ### &#x27A4;
+
+### &#x27A4;
+
+
 
 
 
