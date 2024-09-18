@@ -2,7 +2,7 @@
 
 ## 第一课
 
-### &#x27A4;名1$\color{yellow}{「は」}$($\color{yellow}{提示助词}$)名2$\color{yellow}{「です」}$($\color{yellow}{判断助词‘是’}$)	译为 ‘……是……’
+### &#x27A4;名1<font color=yellow>「は」</font>(<font color=yellow>提示助词</font>)名2<font color=yellow>「です」</font>(<font color=yellow>判断助词 ‘是’</font>)	译为 ‘……是……’
 
 例子：私は学生です
 
